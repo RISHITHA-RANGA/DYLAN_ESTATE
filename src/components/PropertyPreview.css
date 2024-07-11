@@ -1,0 +1,47 @@
+/* PropertyPreview.css */
+
+.property-preview-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.property-preview-container h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.property-details {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.property-details p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.property-details strong {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.property-photos {
+    margin-top: 20px;
+}
+
+.property-photos img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 10px;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
